@@ -1,3 +1,6 @@
+Video 
+https://drive.google.com/file/d/1vb5aU91UIDHA-roG0NkJddj7SdQ7EhPc/view?usp=sharing
+
 # To-Do List MCP Server
 
 A minimal Python project that implements a basic To-Do list API with Model Context Protocol (MCP) server integration for Gemini CLI.
@@ -167,3 +170,4 @@ MIT License
 ## Support
 
 For issues or questions, please open an issue in the GitHub repository.
+
